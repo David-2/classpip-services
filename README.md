@@ -66,3 +66,7 @@ To configure a __local mysql database__ instead the current in-memory configurat
 ## License
 
 Classpip is released under the [Apache2 License](https://github.com/classpip/classpip-services/blob/master/LICENSE).
+
+## Test
+
+This is a test.
